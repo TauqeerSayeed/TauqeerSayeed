@@ -1,4 +1,4 @@
-![logo](https://github.com/MMuttalib1326/MMuttalib1326/blob/main/1.png)
+![logo](https://github.com/TauqeerSayeed/TauqeerSayeed/blob/main/Black%20Elegant%20Minimalist%20Profile%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Tauqeer Sayeed</h1>
 <!-- <h3 align="center">Data Scientist </h3> -->
  
