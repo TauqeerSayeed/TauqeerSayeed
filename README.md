@@ -15,13 +15,9 @@
 
 <p align="left"> <a href="https://twitter.com/mmuttalib1326" target="blank"><img src="https://img.shields.io/twitter/follow/mmuttalib1326?logo=twitter&style=for-the-badge" alt="mmuttalib1326" /></a> </p>
 
-- 🔭 I’m currently working on [Kaggle](https://www.kaggle.com/mohdmuttalib) 
-
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/mohdmuttalib](https://www.kaggle.com/mohdmuttalib)
-
 - 📫 How to reach me **tauqeersayeed2000@gmail.com**
 
-- 💬 Ask me about *| Machine Learning | Artificial Intelligence | Deep Learning | NLP | Computer Vision | Tableau | PowerBi | Excel | Google Analytics.*
+- 💬 Ask me about *| Machine Learning | Artificial Intelligence | Deep Learning | NLP | React | Javascript | Python |  Excel .*
 
 
 <h3 align="left">Connect with me:</h3>
@@ -43,13 +39,13 @@
 <h3 align="lest"> Stats: </h3>
 <hr>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmuttalib1326&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TauqeerSayeed&theme=chartreuse_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmuttalib1326&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mmuttalib1326&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TauqeerSayeed&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TauqeerSayeed&theme=chartreuse_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmuttalib1326&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mmuttalib1326&theme=chartreuse_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TauqeerSayeed&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TauqeerSayeed&theme=chartreuse_dark&utcOffset=8)
 
  
 <div align="center">
