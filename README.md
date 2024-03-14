@@ -11,14 +11,11 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmuttalib1326&label=Profile%20views&color=0e75b6&style=flat" alt="mmuttalib1326" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mmuttalib1326" target="blank"><img src="https://img.shields.io/twitter/follow/mmuttalib1326?logo=twitter&style=for-the-badge" alt="mmuttalib1326" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TauqeerSayeed&label=Profile%20views&color=0e75b6&style=flat" alt="TauqeerSayeed" /> </p>
 
 - 📫 How to reach me **tauqeersayeed2000@gmail.com**
 
 - 💬 Ask me about *| Machine Learning | Artificial Intelligence | Deep Learning | NLP | React | Javascript | Python |  Excel .*
-
 
 <h3 align="left">Connect with me:</h3>
 <hr>
